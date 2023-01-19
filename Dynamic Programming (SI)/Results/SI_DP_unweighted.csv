@@ -1,0 +1,43 @@
+set-up,sampling,V score,R score
+First names,0.10,0.02,0.02078739
+First names,0.50,0.052,0.120517703
+First names,0.90,0.094444444,0.187071609
+Last names ,0.10,0.03,0.023917004
+Last names ,0.50,0.026,0.089115828
+Last names ,0.90,0.038888889,0.109292815
+Sex(hybrid),0.10,1,1
+Sex(hybrid),0.50,1,1
+Sex(hybrid),0.90,1,1
+Age in years at admission,0.10,0.06,0.055642275
+Age in years at admission,0.50,0.170212766,0.240483918
+Age in years at admission,0.90,0.278571429,0.297878495
+Neonatal age indicator,0.10,1,1
+Neonatal age indicator,0.50,1,1
+Neonatal age indicator,0.90,1,1
+Admission month,0.10,0.1,0.097344424
+Admission month,0.50,0.385714286,0.326132466
+Admission month,0.90,0.666666667,0.645508341
+Admission day is a weekend ,0.10,1,1
+Admission day is a weekend ,0.50,1,1
+Admission day is a weekend ,0.90,1,1
+Died during hospitalisation ,0.10,1,1
+Died during hospitalisation ,0.50,0.75,0.999656105
+Died during hospitalisation ,0.90,1,1
+DRG in effect on discharge date ,0.10,0.05,0.124915126
+DRG in effect on discharge date,0.50,0.102,0.296718873
+DRG in effect on discharge date,0.90,0.162222222,0.370857934
+MDC in effect on discharge date (HCUP),0.10,0.566666667,0.785412613
+MDC in effect on discharge date (HCUP),0.50,0.584615385,0.713957876
+MDC in effect on discharge date (HCUP),0.90,0.741666667,0.954469556
+ICD-10-CM Diagnosis 1 (HCUP),0.10,0.08,0.127994307
+ICD-10-CM Diagnosis 1 (HCUP),0.50,0.102,0.304320765
+ICD-10-CM Diagnosis 1 (HCUP),0.90,0.153333333,0.421619566
+# of days from admission to I10_PR1 (HCUP),0.10,0.063636364,0.560062458
+# of days from admission to I10_PR1 (HCUP),0.50,0.141176471,0.973666605
+# of days from admission to I10_PR1 (HCUP),0.90,0.143478261,0.956096945
+Indicator of sex (HCUP),0.10,0.6,0.6
+Indicator of sex (HCUP),0.50,0.533333333,0.999859943
+Indicator of sex (HCUP),0.90,0.6,0.999838
+Race (HCUP),0.10,1,1
+Race (HCUP),0.50,0.85,0.940108805
+Race (HCUP),0.90,1,1

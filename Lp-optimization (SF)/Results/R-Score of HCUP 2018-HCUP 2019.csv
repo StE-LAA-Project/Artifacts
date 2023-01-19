@@ -1,0 +1,11 @@
+Column (HCUP 2018-HCUP 2019),L1,L2,L3
+Admission month-Admission month,100.0,100.0,100.0
+Age in years at admission-Age in years at admission,100.0,100.0,100.0
+Neonatal age (first 28 days after birth) indicator-Neonatal age (first 28 days after birth) indicator,100.0,100.0,100.0
+Admission day is a weekend-Admission day is a weekend,100.0,100.0,100.0
+Died during hospitalization-Died during hospitalization,100.0,100.0,100.0
+DRG in effect on discharge date-DRG in effect on discharge date,100.0,100.0,100.0
+ICD-10-CM Diagnosis 1-ICD-10-CM Diagnosis 1,88.7536,88.7536,88.7536
+MDC in effect on discharge date-MDC in effect on discharge date,100.0,100.0,100.0
+Race (uniform)-Race (uniform),100.0,100.0,100.0
+Indicator of sex-Indicator of sex,100.0,100.0,100.0

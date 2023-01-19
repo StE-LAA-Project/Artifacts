@@ -1,0 +1,2 @@
+To run the experiments, put all datafiles into the directory in the prefix variable in code.py.
+For experiment 4 and 15 (the ones on race), non-negative values are not counted in the score calculation.

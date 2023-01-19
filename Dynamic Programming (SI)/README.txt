@@ -1,0 +1,3 @@
+This script takes in two columns of data (one auxiliary and one ciphertext), runs the SI-DP attack, and calculates the v-score and r-score for the attack on three query instances: (1) top-x% query, (2) weighted query, and (3) unweighted query. (2) and (3) are repeated 10 times for reliability.
+
+Files are generally saved in the format {prefix}_aux.csv and {prefix}_cipher.csv. Datasets will need to be truncated to 2 columns (name,frequency or name,auxiliary) before this script can be run. To run the attack on different columns, the prefix of the file should be changed. The "run" variable is used for threading.

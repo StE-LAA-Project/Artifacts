@@ -1,0 +1,22 @@
+dataset name,error,v-score,r-score
+DI_1000000_10_lin-randlin6,5,100,100
+DI_1000000_10_lin-randlin6,10,100,100
+DI_1000000_10_lin-randlin6,20,100,100
+DI_1000000_10_lin-randlin7,5,100,100
+DI_1000000_10_lin-randlin7,10,100,100
+DI_1000000_10_lin-randlin7,20,100,100
+DI_1000000_10_lin-randlin9,5,100,100
+DI_1000000_10_lin-randlin9,10,100,100
+DI_1000000_10_lin-randlin9,20,100,100
+DI_1000000_10_zipf-invzipf4,5,100,100
+DI_1000000_10_zipf-invzipf4,10,100,100
+DI_1000000_10_zipf-invzipf4,20,100,100
+DI_1000000_10_zipf-invzipf5,5,100,100
+DI_1000000_10_zipf-invzipf5,10,100,100
+DI_1000000_10_zipf-invzipf5,20,100,100
+DI_1000000_10_zipf-randzipf1,5,100,100
+DI_1000000_10_zipf-randzipf1,10,100,100
+DI_1000000_10_zipf-randzipf1,20,100,100
+DI_1000000_10_zipf-randzipf2,5,100,100
+DI_1000000_10_zipf-randzipf2,10,100,100
+DI_1000000_10_zipf-randzipf2,20,100,100

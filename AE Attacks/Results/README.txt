@@ -1,0 +1,3 @@
+Deterministic encryption is essentially SF (results might differ a little due to ties in frequencies).
+For randomized encryption, V-score doesn't really make sense (some classes can be partially correct).
+Expt 12 (ICD_10_CM_Diagnosis_1) has some NULL values (~0.03%) that cannot be encrypted. For simplicity I replaced all NULL values (2018/2019) with '.' but this shouldn't affect the results too much.
